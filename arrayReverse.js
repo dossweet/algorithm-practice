@@ -8,4 +8,5 @@ while (left < right){
     left++;
     right--;
 }
+
 console.log(arr);
