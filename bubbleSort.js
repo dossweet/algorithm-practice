@@ -22,5 +22,6 @@ function bubbleSort(arr) {
     }
     return result;
 }
-let arr = [18, 62, 31, 88, 50, 92];
-console.log(bubbleSort(arr)); // [18, 31, 50, 62, 88, 92]
+
+let arr = [19, 62, 31, 88, 50, 92];
+console.log(bubbleSort(arr)); // [19, 31, 50, 62, 88, 92]
